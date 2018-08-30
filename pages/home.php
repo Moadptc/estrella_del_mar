@@ -24,28 +24,19 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent2">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">HOME</a>
+                    <a class="nav-link" href="#">INICI</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">DESSERTS</a>
+                    <a class="nav-link" href="#">QUI SOM</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">SALADS</a>
+                    <a class="nav-link" href="#">FOTOS </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">PASTA</a>
+                    <a class="nav-link" href="#">OPINIONS </a>
                 </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        OTHERS
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">Action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                    </div>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">CONTACTE </a>
                 </li>
 
             </ul>
@@ -59,5 +50,17 @@
 <?php include 'includes/slider.php'; ?>
 
 <div class="container">
-    
+    <div class="py-4 text-center">
+        <h4 class="font-weight-bold">
+            FEATURED RECIPES
+        </h4>
+    </div>
+
+    <div class="row">
+        <div class="col">
+            <div class="bg-dark py-3">
+
+            </div>
+        </div>
+    </div>
 </div>

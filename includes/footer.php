@@ -1,6 +1,6 @@
 <footer>
 	<div class="bg-dark text-center py-3 text-white">
-		Copyrghit &copy; <?php echo date('Y') ?> Mouad
+        Armario &copy; <?php echo date('Y') ?> L’ESTRELLA DEL MAR
 	</div>
 </footer>
 

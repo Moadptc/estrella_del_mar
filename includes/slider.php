@@ -1,6 +1,6 @@
 
 <div class="container">
-	<div class="main-slider my-5">
+	<div class="main-slider mt-5 mb-4">
 		<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
 			<div class="carousel-inner">
 				<div class="carousel-item active">
