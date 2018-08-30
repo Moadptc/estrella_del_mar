@@ -1,0 +1,79 @@
+body
+{
+
+}
+
+/*------------- begin myFramework  ---------*/
+.shadow-effect-3
+{
+    box-shadow: 1px 1px 4px #ccc;
+}
+
+.shadow-effect-2
+{
+    box-shadow: 1px 1px 8px #ccc;
+}
+
+.shadow-effect-1
+{
+    box-shadow: 1px 1px 12px #ccc;
+}
+
+.border-gray
+{
+    border-color: #b6b6b6;
+}
+/*-------- end myFramework -------------*/
+
+.top-nav ul li a
+{
+    font-size: 13px;
+}
+
+.bottom-nav ul li a
+{
+    font-size: 18px;
+}
+
+/*------- slider -------------*/
+.main-slider
+{
+    position: relative;
+}
+
+.main-slider img
+{
+    height: 480px;
+}
+
+.arrow-next,.arrow-prev
+{
+    background: #454545 !important;
+    padding: 34px !important;
+}
+
+.arrow-next
+{
+    position: absolute;
+    right: 0;
+}
+
+.arrow-prev
+{
+    position: absolute;
+    left: 0;
+}
+
+.caption-slider
+{
+    width: auto;
+    background: rgba(0, 0, 0, 0.38);
+}
+
+.text-section-slider
+{
+    position: absolute;
+    top:60px;
+}
+
+/*------- slider -------------*/
